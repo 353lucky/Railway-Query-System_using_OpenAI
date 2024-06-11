@@ -1,0 +1,10 @@
+streamlit
+langchain_openai
+python-dotenv
+langchain
+transformers
+openai-whisper
+streamlit-audiorec
+scipy
+torch
+speechRecognition
